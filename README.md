@@ -9,7 +9,11 @@
 3. 필터
 4. 인터셉터
 5. 스프링 부트 - 오류 페이지
-6. 정리
+6. HandlerExceptionResolver
+7. 스프링이 제공하는 ExceptionResolver
+8. @ExceptionHandler
+9. @ControllerAdvice
+10. 정리
 
 ----
 
